@@ -1,0 +1,1 @@
+¡amigo, parece que estás tratando de hornear una función de producción! si pudiéramos hacer pan como respuesta, estaríamos en un buen negocio. pero, en serio, esas cifras son un buen comienzo. para hacer la gráfica, los panaderos van en el eje x y los kilos de pan en el eje y. conecta los puntos, y voilà, ¡tienes una deliciosa curva de

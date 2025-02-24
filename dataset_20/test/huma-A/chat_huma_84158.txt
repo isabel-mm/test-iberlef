@@ -1,0 +1,1 @@
+Realiza un análisis morfológico de la siguiente oracion: "open assistant es un proyecto de un modelo de lenguaje para crear un asistente open-source

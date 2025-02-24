@@ -1,0 +1,1 @@
+La base de datos es una de las herramientas más importantes que se utilizan para almacenar, recuperar y analizar datos en una empresa. el software de base de datos es el software que permite manejar y gestionar la base de datos. en este

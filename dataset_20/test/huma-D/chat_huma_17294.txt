@@ -1,0 +1,1 @@
+Crea una pregunta de examen de algebra lineal donde los estudiantes tienen que calcular un problema con descomposición de tipo lux

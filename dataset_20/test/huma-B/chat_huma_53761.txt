@@ -1,0 +1,1 @@
+Muy bien, para generar una calculadora capaz de resolver las 4 operaciones básicas necesitamos entrar en python y empezar a programar las lineas de codigo que necesitamos para que no nos arroje

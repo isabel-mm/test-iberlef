@@ -1,0 +1,1 @@
+Explica la diferencias entre una base relacional, una documental y una caché y pon ejemplos de cada una de ellas. comenta las diferencias en cuanto a velocidad de respuesta, funcionalidad, capacidad de almacenamiento y

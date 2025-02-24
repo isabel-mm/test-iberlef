@@ -1,0 +1,1 @@
+Explícame los conceptos de estructura de datos lineales, no lineales, estáticas y dinámicas, y dame dos ejemplos de cada

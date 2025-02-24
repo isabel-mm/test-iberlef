@@ -1,0 +1,1 @@
+Esto suena como una excelente solución. crear nuevas variables independientes y utilizar la función "tolowercase()" para

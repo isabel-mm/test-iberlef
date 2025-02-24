@@ -1,0 +1,1 @@
+¿cuáles son los mejores métodos para reducir variables y escoger las mas representativas en conjuntos de grandes datos utilizando scikit-learn y

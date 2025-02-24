@@ -1,0 +1,1 @@
+Buscamos una función javascript que dado un número n devuelva una matriz rellena con n números ordenados de 0 en adelante con tantos elementos como n de la entrada más un número extra al final

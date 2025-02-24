@@ -1,0 +1,1 @@
+Se suele utilizar una interfaz al hacer un servicio en spring boot porque permite definir métodos sin implementarlos

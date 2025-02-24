@@ -1,0 +1,1 @@
+Deberías empezar por empezar a programar cosas básicas en c++ para poder aprender la sintaxis básica, y además ver algunos tutoriales de youtube para empezar en algún entorno de desarrollo. como scratch, y posteriormente dar el salto a otras plataformas

@@ -1,0 +1,1 @@
+Explícame de forma sencilla el sistema de clonado goldengate para la construcción de un vector cuyo fin es construir un sistema crispr/cas9 para generar plantas mutantes de arabidopsis; indicandome los reactivos y el equipamiento necesarios, los pasos del protocolo y los fundamentos teóricos de cada

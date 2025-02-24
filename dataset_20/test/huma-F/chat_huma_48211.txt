@@ -1,0 +1,1 @@
+Y como puedo hacer para añadirle que la nave espacial tenga un número x de vidas y que cuando impacte contra un asteroide que se le quite una, y si se han acabado que entonces sea cuando termine el

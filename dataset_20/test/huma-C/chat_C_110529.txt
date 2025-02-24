@@ -1,0 +1,1 @@
+La sintaxis clara y legible de python facilita la comprensión y el mantenimiento del código, lo que ayuda a los programadores a escribir código más fácilmente. además, python proporciona estructuras de datos

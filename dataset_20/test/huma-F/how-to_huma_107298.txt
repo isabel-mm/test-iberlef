@@ -1,0 +1,1 @@
+Consigue un pedazo largo de cuerda. encuentra un pedazo largo de cuerda que sea de al menos 3 pies (91,44 cm) de largo. puedes usar hilo o una cuerda delgada. si no tienes acceso a ninguno de estos materiales, incluso puedes usar tus cordones. haz un nudo corredizo en el centro de la

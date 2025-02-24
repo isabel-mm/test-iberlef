@@ -1,0 +1,1 @@
+Realizando una solicitud ajax desde javascript a una url externa, obtengo un error "cors". ¿qué significa este error? ¿a qué se puede deber y cómo

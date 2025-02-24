@@ -1,0 +1,1 @@
+Muéstrame ejemplos de operaciones lógicas y aritméticas con es5(ecmascript5) en un script. comentando que hace cada

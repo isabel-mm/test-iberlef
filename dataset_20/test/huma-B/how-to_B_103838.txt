@@ -1,0 +1,1 @@
+Para girar la pantalla en un iphone, primero abre el terminal. luego, toque el icono de control, que se parece a un cuadrados en la parte de atrás de la pantalla. cuando lo hace, verá varias opciones de control, y tendrá que seleccionar la pantalla rotatoria. la pantalla empezará a girar de forma que puede ver todos los aspectos de su terminal.

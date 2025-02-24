@@ -1,0 +1,1 @@
+Estoy completamente de acuerdo. la notación asintótica es una herramienta esencial en la teoría de algoritmos, ya que nos

@@ -1,0 +1,1 @@
+Evalúa el daño decide si tu dvd se puede arreglar o si tiene un daño irreparable. como se mencionó anteriormente, los discos con rasguños profundos no podrán ser reparados. para evaluar el daño, sostén el disco a la luz del sol. si la luz del sol atraviesa el rasguño, es poco probable que el dvd pueda ser

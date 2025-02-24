@@ -1,0 +1,1 @@
+Busca la próxima fecha de una lluvia de meteoros. las estrellas fugaces no son en realidad estrellas. son meteoros, los cuales están compuestos por pedazos de rocas o escombros interplanetarios. cuando golpean la superficie terrestre, iluminan el cielo nocturno. busca un calendario de la próxima lluvia de meteoros y dirígete a un lugar oscuro y

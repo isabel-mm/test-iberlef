@@ -1,0 +1,1 @@
+Gracias por tu respuesta. sin embargo, creo que el código que me has ofrecido no funciona correctamente. en la función "mostrar_figura" estás utilizando la variable "

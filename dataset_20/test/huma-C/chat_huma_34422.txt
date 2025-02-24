@@ -1,0 +1,1 @@
+¿puedes darme un ejemplo de una función con discriminante negativo, una función con discriminante positivo y una con discriminante

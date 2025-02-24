@@ -1,0 +1,1 @@
+Creo que deberia tener un coordinador del proyecto, al mezclar tantas disciplinas, hay algun de los perfiles que puede ejercer esa funcion o necesito otro perfil para

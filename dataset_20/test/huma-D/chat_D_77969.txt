@@ -1,0 +1,1 @@
+Function calcularorexclusiva(listacaracteres) { let resultado = listacaracteres(0); for (let i = 1; i < listacaracteres.length; i++) { resultado = resultado ^ listacaracteres(i); } return resultado;

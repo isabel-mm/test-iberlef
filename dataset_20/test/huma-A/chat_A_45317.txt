@@ -1,0 +1,1 @@
+Es cierto que la cabecera ipv6 es más pesada que la cabecera ipv4, lo que puede afectar negativamente el rendimiento en algunos casos. sin embargo, es importante tener en cuenta que ipv6 también ofrece una serie de ventajas importantes, como una mayor direccionabilidad y escalabilidad, lo que permite una mejor gestión de los recursos de red y una mayor eficiencia en

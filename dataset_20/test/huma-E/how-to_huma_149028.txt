@@ -1,0 +1,1 @@
+Determine su presupuesto. si tiene un presupuesto estricto, tome nota de su máximo absoluto. el precio variará dependiendo del número de músicos, costos de viaje, alojamiento y calidad / horario de las bandas que elija. determine la edad promedio de sus invitados. a menos que sean muy jóvenes o muy mayores, es bastante probable que sus invitados tengan un rango de edad bastante

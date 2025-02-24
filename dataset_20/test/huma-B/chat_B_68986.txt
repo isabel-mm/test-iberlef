@@ -1,0 +1,1 @@
+¡de nada! les puedo mostrar una tabla a continuación, con más detalle, por si aún no ha sido lo suficientemente claro: resultados variable ----------- -------- 1 1 2 2 3 1 4

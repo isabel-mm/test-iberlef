@@ -1,0 +1,1 @@
+Podrías mostrar el código en un "bloque de código" (es mas fácil ver) y agregar comentarios, en español y letra mayúscula, por favor. ejemplo: ~~~ // filtrar solo los meses con 0 < ventas var meses_con_datos = distinct(filter(meses, calculate(sum("ventas"(ventas))) > 0))

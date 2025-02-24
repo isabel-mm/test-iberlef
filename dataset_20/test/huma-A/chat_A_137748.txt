@@ -1,0 +1,1 @@
+Xss es un tipo de vulnerabilidad de seguridad en la que un atacante

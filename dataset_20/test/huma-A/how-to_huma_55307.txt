@@ -1,0 +1,1 @@
+Mida el ancho del marco de la puerta. saque la cinta métrica. deberá saber qué tan ancho es su marco de puerta para que el marco encaje en él. sostenga la cinta métrica hasta el borde superior del marco de la puerta. tome la medición y guárdela para

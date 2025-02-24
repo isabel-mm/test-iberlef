@@ -1,0 +1,1 @@
+Crea una oración coherente pero cada palabra debe empezar con la última letra de la palabra anterior, empezando con "el

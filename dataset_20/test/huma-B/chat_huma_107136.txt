@@ -1,0 +1,1 @@
+Cual sería la función que usaría access en una consulta, para obtener la edad de una persona usando un campo de formato fecha que indique la fecha

@@ -1,0 +1,1 @@
+Puedes crear una función en python que me permita obtener el uso actual de cpu y memoria ram de la computadora, la función debe devolver un array con dos valores entre 1 y 100, por ejemplo: (10, 45), el primero corresponde al uso de cpu y el segundo a la ram en

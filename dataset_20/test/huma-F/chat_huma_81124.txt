@@ -1,0 +1,1 @@
+¿cómo puedo saber si un número es par o impar en python? escribe el código de

@@ -1,0 +1,1 @@
+Estoy utilizando google sheets, me gustaría crear una fórmula que reemplaza los espacios en blanco de la casilla a1 por "_". voy a colocar esta fórmula en la casilla a2 (por si fuera relevante

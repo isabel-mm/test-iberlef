@@ -1,0 +1,1 @@
+Genera un codigo en javascript que me calcule la pendiente y el intercepto de una regresión de deming y ademas que me entregue los intervalos

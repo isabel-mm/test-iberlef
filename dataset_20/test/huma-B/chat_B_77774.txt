@@ -1,0 +1,1 @@
+Si desea seleccionar un rango específico en excel usando vba, debe usar un método llamado "setrange". la sintaxis correcta es: """ selection.setrange ("a1:b10") """ en este ejemplo, se establece

@@ -1,0 +1,1 @@
+Una interfaz en typescript se utiliza para definir un tipo y sus operaciones. esencialmente, es una forma de describir la

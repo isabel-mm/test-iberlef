@@ -1,0 +1,1 @@
+La diferencia entre frontend y backend radica en que el frontend es la parte de un sitio web o aplicación que los usuarios ven e interactúan

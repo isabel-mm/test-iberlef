@@ -1,0 +1,1 @@
+Seleccione 3 colores. comience en el centro de su línea de pestañas. usando su primer color, dibuje una " x " en el centro de su línea de pestañas. los extremos de cada línea de la " x " deben tocar su línea de pestañas. luego, agregue una línea que vaya directamente hacia abajo a través de la " x " y otra línea que cruce verticalmente a través del

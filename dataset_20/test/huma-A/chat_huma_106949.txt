@@ -1,0 +1,1 @@
+Sin duda, uno de los problemas a la hora de entrenar una ia, puede ser el sesgo cultural de las personas que lo entrenan ya que si los datos que proporcionan no son lo suficientemente variados la ai desconocerá por completo la diversidad cultural que refleja el mundo en el que vivimos y su respuesta será un reflejo de la visión limitada de sus

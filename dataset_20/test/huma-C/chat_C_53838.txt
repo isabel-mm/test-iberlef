@@ -1,0 +1,1 @@
+Sí, los indices en mongodb ayudan a mejorar la inserción de datos en
