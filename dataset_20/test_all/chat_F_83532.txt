@@ -1,0 +1,1 @@
+El adn que se pasa a los descendientes puede variar entre individuos debido a la recombinación genética. este proceso mezcla los cromosomas de los padres para crear una combinación única en cada descendiente. por lo tanto, no podemos calcular con exactitud el adn que se pasa a cada generación. además, no es posible expresar matemáticamente

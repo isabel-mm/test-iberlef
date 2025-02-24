@@ -1,0 +1,1 @@
+¡lo siento! no estoy preparado para ayudarte con eso, pero sí que puedo ayudarte en otro momento. en el caso de que quieras aprender a usar la lista y la llamada lista íntima en java, déjame indicar una llamada clase como listadeimmutabilidad. un saludo! """java class immutablelist { private final list<string> immutablelist; public immutablelist(string

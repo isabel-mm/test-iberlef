@@ -1,0 +1,1 @@
+En r, puedes hacerlo mediante el siguiente código: """ # cambia los valores na a 0 df$columna <- ifelse(is.na(df$columna), 0

@@ -1,0 +1,1 @@
+Si, puedo ayudarte a desarrollar un gizmo en python para unificar los read usados y generar rutas relativas automáticamente. sin embargo, es importante tener en cuenta que el desarrollo de un gizmo así puede ser un proyecto complejo y requerir tiempo y recursos significativos. ¿estás dispuesto a invertir el tiempo y esfuerzo

@@ -1,0 +1,1 @@
+Es cierto que el uso de un bucle puede reducir la duplicación de código y hacerlo más compacto, pero también es importante tener en cuenta que el uso de /usr/share/dict/words puede no ser adecuado en todos los sistemas posix. en cuanto a la eficiencia, es cierto que la mayoría

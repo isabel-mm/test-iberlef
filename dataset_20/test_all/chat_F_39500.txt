@@ -1,0 +1,1 @@
+Entendido, el código proporcionado muestra cómo crear un archivo netlist para un circuito básico usando python y las bibliotecas pyspice, pyverilog

@@ -1,0 +1,1 @@
+Las transformadas de fourier son una herramienta matemática que permite descomponer una función en sus componentes espectrales, lo que permite analizar y manipular señales de manera más eficiente. las aplicaciones de las transformadas de fourier son diversas, como la compressión de datos,

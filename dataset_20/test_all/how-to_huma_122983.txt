@@ -1,0 +1,1 @@
+En primer lugar, abra la ventana ejecutar. puede encontrarla en el menú inicio. ejecute ie express en esa ventana y haga clic en aceptar. verás una nueva ventana llamada asistente de ie express. en este asistente, marca "crear un nuevo archivo de directiva de autoextracción" y haz clic en

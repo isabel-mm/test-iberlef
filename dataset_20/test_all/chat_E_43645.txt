@@ -1,0 +1,1 @@
+¡qué interesante! los transformadores de deep learning utilizan efectivamente el mecanismo de atención para aprender de los datos de entrada. la tecnología de "attention" permite a

@@ -1,0 +1,1 @@
+Quisiera que, dado un texto proporcionado por el usuario, se identifiquen las construcciones gramaticales repetitivas. además, quisiera que cuente la cantidad de veces que aparecen las palabras, devolviendo una lista de éstas ordenándolas de mayor a menor de acuerdo al número de

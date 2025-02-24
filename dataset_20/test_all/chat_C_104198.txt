@@ -1,0 +1,1 @@
+La ecuación de wells-riley es una herramienta utilizada para estimar la probabilidad de transmisión de enfermedades infecciosas a través del aire en espacios interiores. la forma transiente de la ecuación de wells-riley es la siguiente p = 1 - exp(-nqsv) donde p es la probabilidad de infección, n es el número de personas infectadas en el espacio, q

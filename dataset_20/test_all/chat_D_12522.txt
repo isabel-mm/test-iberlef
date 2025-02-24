@@ -1,0 +1,1 @@
+Se pueden crear gráficos y visualizaciones en python con matplotlib utilizando la librería de matplotlib. esta librería permite crear una gran variedad de gráficos, desde simples hasta complejos, utilizando funciones y métodos específicos. además

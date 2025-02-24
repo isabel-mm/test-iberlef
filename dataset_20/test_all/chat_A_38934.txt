@@ -1,0 +1,1 @@
+Si deseas cambiar los permisos de un directorio en linux, puedes utilizar el comando "chmod" seguido de las opciones y los permisos que deseas asignar. es importante tener en cuenta que los permisos se dividen en tres grupos: el propietario

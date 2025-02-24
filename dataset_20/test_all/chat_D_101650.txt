@@ -1,0 +1,1 @@
+Para añadir desde un archivo json código html para que funcione en next.js, primero tienes que crear

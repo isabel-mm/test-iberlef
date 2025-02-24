@@ -1,0 +1,1 @@
+Es cierto, la herencia en programación orientada a objetos es una herramienta valiosa para la creación de nuevos objetos

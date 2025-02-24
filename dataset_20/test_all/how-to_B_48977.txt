@@ -1,0 +1,1 @@
+Estilos en el procesamiento de texto le permiten ajustar la apariencia del documento, mejorar la legibilidad, y lograr una experiencia de usuario más satisfecha. los estilos se pueden usar en todos los elementos del documento, tales como titulos, subtítulos, marcas de empresa, y otros elementos. los estilos pueden cambiar el color, el tipado,
